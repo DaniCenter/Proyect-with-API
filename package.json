@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-with-api",
+  "version": "1.0.0",
+  "description": "Proyecto web consumiendo una API con fetch",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniCenter/Proyecto-with-API.git"
+  },
+  "keywords": [],
+  "author": "Daniel Vilca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniCenter/Proyecto-with-API/issues"
+  },
+  "homepage": "https://github.com/DaniCenter/Proyecto-with-API#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
